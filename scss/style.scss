@@ -48,4 +48,14 @@ img {max-width:100;}
 
 body {
     transition: opacity .25s ease;
+    
+}
+.center{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#hex{
+    color: white; 
 }
