@@ -851,8 +851,7 @@ img {
 
 body {
   -webkit-transition: opacity .25s ease;
-          transition: opacity .25s ease;
-  /*background-color: #00FFCC;*/ }
+          transition: opacity .25s ease; }
 
 .center {
   position: absolute;
